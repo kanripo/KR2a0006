@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 史記疑問
-#+DATE: 2015-09-23 09:41:26
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 22:19:32.968221
+#+PROPERTY: ID KR2a0006
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷中
 <pb:KR2a0006_WYG_002-1a>¶
 欽定四庫全書¶
 　史記疑問卷中¶
@@ -686,4 +688,3 @@
 　事事而天下可望其治者乎曽有去五榖之食可以¶
 　生而有神仙不死者乎¶
 　史記疑問卷中¶
-
